@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+.pytest_cache
+__pycache__
+.vscode
+data
+data/*.ipynb
+data/cifar-10-python.tar.gz
+data/cifar-10-batches-py
