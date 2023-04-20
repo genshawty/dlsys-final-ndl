@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/gensenju/Documents/DL sys/Needle/src/ndarray_backend_cpu.cc" "CMakeFiles/ndarray_backend_cpu.dir/src/ndarray_backend_cpu.cc.o" "gcc" "CMakeFiles/ndarray_backend_cpu.dir/src/ndarray_backend_cpu.cc.o.d"
+  "/home/gensenju/Documents/DL sys/dlsys-final/src/ndarray_backend_cpu.cc" "CMakeFiles/ndarray_backend_cpu.dir/src/ndarray_backend_cpu.cc.o" "gcc" "CMakeFiles/ndarray_backend_cpu.dir/src/ndarray_backend_cpu.cc.o.d"
   )
 
 # Targets to which this target links.
